@@ -10,4 +10,5 @@ Use the A,W,D,S keypresses or the UP,LEFT,RIGHT,DOWN Arrows keypress to move. Th
 
 
 
-Download .exe file in src folder and just run it.
+Download zip file in src folder and extract the data and exe file and put them in the same directory, i.e folder.
+Then simply double click on the exe file to run program.
