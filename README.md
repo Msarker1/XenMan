@@ -1,6 +1,6 @@
 # XenMan
 
-Only Works for windows OS.
+Only Works on windows OS.
 
 
 A 2D sprite game that engages the player to combat with robots that continuously get stronger and faster.
